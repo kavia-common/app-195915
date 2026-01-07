@@ -59,7 +59,7 @@
     "@types/yauzl": "^2.10.0",
     "ava": "^5.1.0",
     "babel-loader": "^9.1.0",
-    "copy-webpack-plugin": "^11.0.0",
+    "copy-webpack-plugin": "^13.0.1",
     "electron-builder": "23.6.0",
     "electron-notarize": "^1.2.1",
     "eslint": "*",
